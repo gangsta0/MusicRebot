@@ -41,7 +41,7 @@ LOG_GROUP_ID = int("-1001605064659")
 MUSIC_BOT_NAME = "Nurlan Musiqi"
 
 # Your User ID.
-OWNER_ID = [1339412165]
+OWNER_ID = [1464910930,1339412165]
   # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
@@ -62,10 +62,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "https://t.me/c9ala", "https://t.me/c9ala"
+    "https://t.me/c9ala", "https://t.me/nurlanstm"
 )  # Example:- https://t.me/TheYukki
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/c9ala"
+    "SUPPORT_GROUP", "https://t.me/oldlaryurdu"
 )  # Example:- https://t.me/YukkiSupport
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
